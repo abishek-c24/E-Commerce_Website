@@ -20,7 +20,7 @@ This is a *frontend-only* demo project, ideal for learning and showcasing your s
 
 ## 📸 Screenshots
 
-[Screenshot]!(ss.png)
+![Screenshot](ss.png)
 
 ---
 
